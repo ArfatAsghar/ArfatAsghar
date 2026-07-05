@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ArfatAsghar/ArfatAsghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    _    ____  _____ _  _____      _    ____   ____ _   _    _    ____  
+   / \  |  _ \|  ___/ \|_   _|    / \  / ___| / ___| | | |  / \  |  _ \ 
+  / _ \ | |_) | |_ / _ \ | |     / _ \ \___ \| |  _| |_| | / _ \ | |_) |
+ / ___ \|  _ <|  _/ ___ \| |    / ___ \ ___) | |_| |  _  |/ ___ \|  _ < 
+/_/   \_\_| \_\_|/_/   \_\_|   /_/   \_\____/ \____|_| |_/_/   \_\_| \_\
+```
 
-Here are some ideas to get you started:
+### Full Stack Developer · Building AI-powered & real-time platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+[![Resume](https://img.shields.io/badge/Resume-1a1a1a?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+<br/>
+
+<details open>
+<summary><b>whoami</b></summary>
+
+```java
+class ArfatAsghar extends Developer {
+    final String name     = "Arfat Asghar";
+    final String role     = "Full Stack Developer";
+    final String uni      = "NFC IET Multan — BS Computer Science";
+    final String focus    = "AI-powered & real-time platforms";
+    final String[] stack  = {
+        "Flask", "ASP.NET Core", "React", "Next.js",
+        "React Native / Expo", "Supabase", "Firebase", "Turborepo"
+    };
+
+    void currentlyBuilding() {
+        System.out.println("Quran recitation app -- Whisper ASR + word-level diffing");
+    }
+}
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### ![](https://img.shields.io/badge/-Tech_Stack-14b8a6?style=flat-square&logo=toolbox&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-14b8a6?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-14b8a6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+<br/>
+
+### ![](https://img.shields.io/badge/-Featured_Work-14b8a6?style=flat-square&logo=rocket&logoColor=white)
+
+| Project | Description |
+|---|---|
+| **[XSM Marketplace](https://github.com/ArfatAsghar/xsm-marketplace)** | Flask + Firebase digital asset marketplace — escrow, 2FA, wallet system |
+| **[Guidely.AI](https://github.com/ArfatAsghar/Guidely.AI)** | ASP.NET Core + Flask ML resume analyzer, deployed with Firebase/Supabase |
+| **[TutorShield](https://github.com/ArfatAsghar/tutorshield)** | React + TypeScript + Supabase tutoring platform — GPS attendance, exam engine, payments |
+| **[NexHub](https://github.com/ArfatAsghar/nexhub)** | Real-time social platform with Supabase-backed comments and masonry feed |
+
+<br/>
