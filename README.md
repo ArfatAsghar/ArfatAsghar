@@ -8,7 +8,7 @@
 /_/   \_\_| \_\_|/_/   \_\_|   /_/   \_\____/ \____|_| |_/_/   \_\_| \_\
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-powered+platforms;Flask+%2B+ASP.NET+%2B+React+%2B+Next.js;Currently+building+a+Quran+recitation+app)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-powered+platforms;Flask+%2B+ASP.NET+%2B+React+%2B+Next.js)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfat-asghar-8596b7295/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arfat-portfolio-peach.vercel.app/)
