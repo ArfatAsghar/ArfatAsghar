@@ -8,12 +8,11 @@
 /_/   \_\_| \_\_|/_/   \_\_|   /_/   \_\____/ \____|_| |_/_/   \_\_| \_\
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-powered+platforms;Flask+%2B+ASP.NET+%2B+React+%2B+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-powered+platforms;Flask+%2B+ASP.NET+%2B+React+%2B+Next.js;Currently+building+a+Quran+recitation+app)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
-[![Resume](https://img.shields.io/badge/Resume-1a1a1a?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfat-asghar-8596b7295/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arfat-portfolio-peach.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfatasghar107@gmail.com)
 
 
 ![Coding animation](https://raw.githubusercontent.com/ArfatAsghar/ArfatAsghar/main/assets/coding-animation.svg)
@@ -65,11 +64,35 @@ class ArfatAsghar extends Developer {
 
 ### ![](https://img.shields.io/badge/-Featured_Work-14b8a6?style=flat-square&logo=rocket&logoColor=white)
 
-| Project | Description |
-|---|---|
-| **[XSM Marketplace](https://github.com/ArfatAsghar/xsm-marketplace)** | Flask + Firebase digital asset marketplace — escrow, 2FA, wallet system |
-| **[Guidely.AI](https://github.com/ArfatAsghar/Guidely.AI)** | ASP.NET Core + Flask ML resume analyzer, deployed with Firebase/Supabase |
-| **[TutorShield](https://github.com/ArfatAsghar/tutorshield)** | React + TypeScript + Supabase tutoring platform — GPS attendance, exam engine, payments |
-| **[NexHub](https://github.com/ArfatAsghar/nexhub)** | Real-time social platform with Supabase-backed comments and masonry feed |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ArfatAsghar/xsm-marketplace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=xsm-marketplace&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
+      </a>
+      <sub>Flask + Firebase digital asset marketplace — escrow, 2FA, wallet system</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ArfatAsghar/Guidely.AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=Guidely.AI&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
+      </a>
+      <sub>ASP.NET Core + Flask ML resume analyzer, deployed with Firebase/Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ArfatAsghar/tutorshield">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=tutorshield&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
+      </a>
+      <sub>React + TypeScript + Supabase tutoring platform — GPS attendance, exam engine, payments</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ArfatAsghar/nexhub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=nexhub&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
+      </a>
+      <sub>Real-time social platform with Supabase-backed comments and masonry feed</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
