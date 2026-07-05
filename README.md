@@ -66,31 +66,32 @@ class ArfatAsghar extends Developer {
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/ArfatAsghar/xsm-marketplace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=xsm-marketplace&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
-      </a>
-      <sub>Flask + Firebase digital asset marketplace — escrow, 2FA, wallet system</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArfatAsghar/xsm-marketplace">XSM Marketplace</a></h3>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <p>Digital asset marketplace with escrow, 2FA, and an integrated wallet system. Refactored from a monolithic file into a Blueprint-based modular architecture.</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ArfatAsghar/Guidely.AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=Guidely.AI&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
-      </a>
-      <sub>ASP.NET Core + Flask ML resume analyzer, deployed with Firebase/Supabase</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArfatAsghar/Guidely.AI">Guidely.AI</a></h3>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask_ML-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <p>Three-tier resume analyzer: ASP.NET Core backend, Flask ML scoring engine, and Firebase/Supabase for auth and storage. Deployed on MonsterASP.NET.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/ArfatAsghar/tutorshield">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=tutorshield&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
-      </a>
-      <sub>React + TypeScript + Supabase tutoring platform — GPS attendance, exam engine, payments</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArfatAsghar/tutorshield">TutorShield</a></h3>
+      <img src="https://img.shields.io/badge/React-14b8a6?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <p>Tutoring platform with GPS-based attendance, an MCQ exam engine, JazzCash/EasyPaisa payments, and AI-assisted moderation.</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ArfatAsghar/nexhub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArfatAsghar&repo=nexhub&theme=github_dark&border_color=14b8a6&title_color=14b8a6" width="100%"/>
-      </a>
-      <sub>Real-time social platform with Supabase-backed comments and masonry feed</sub>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArfatAsghar/nexhub">NexHub</a></h3>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <p>Real-time social platform with Supabase-backed comments and a masonry-style Explore feed built with CSS columns.</p>
     </td>
   </tr>
 </table>
