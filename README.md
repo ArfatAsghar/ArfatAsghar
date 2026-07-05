@@ -8,12 +8,15 @@
 /_/   \_\_| \_\_|/_/   \_\_|   /_/   \_\____/ \____|_| |_/_/   \_\_| \_\
 ```
 
-### Full Stack Developer · Building AI-powered & real-time platforms
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-powered+platforms;Flask+%2B+ASP.NET+%2B+React+%2B+Next.js;Currently+building+a+Quran+recitation+app)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
 [![Resume](https://img.shields.io/badge/Resume-1a1a1a?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+
+![Coding animation](https://raw.githubusercontent.com/ArfatAsghar/ArfatAsghar/main/assets/coding-animation.svg)
 
 </div>
 
